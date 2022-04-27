@@ -20,7 +20,7 @@
     <li>Install one of the 3 IDE's to run a Java Project</li>
     <li>If Eclipse is installed then JDK v17.0.2 has to be installed to use the most up to date libraries</li>
     <li><a href="https://www.youtube.com/watch?v=23FrsQiCBhA">Installing Java JDK</a></li>
-    <li><p>Both VS Code and Eclipse require to downloading packages included within the IDE to run Java file</p></li>
+    <li>Both VS Code and Eclipse require to downloading packages included within the IDE to run Java file</li>
   </ol>
   
  
